@@ -257,3 +257,25 @@ Example:
 ```sql
 SELECT *
 FROM generate_series(1, 5);
+
+## 17. Junction Table
+
+A junction table is used to represent a many-to-many relationship.
+
+Our example:
+
+```text
+employees
+    ↓
+employee_projects
+    ↓
+projects
+
+## 18. Composite Primary Key
+
+A composite primary key consists of two or more columns.
+
+Example:
+
+```sql
+PRIMARY KEY (employee_id, project_id)

@@ -19,3 +19,22 @@ CREATE TABLE company.employees (
     job_title VARCHAR(100),
     employment_status VARCHAR(30)
 );
+
+CREATE TABLE company.projects (
+    project_id SERIAL PRIMARY KEY,
+    project_name VARCHAR(150) NOT NULL UNIQUE,
+    department_id INT REFERENCES company.departments(department_id),
+    budget NUMERIC(14,2) NOT NULL,
+    start_date DATE NOT NULL,
+    end_date DATE,
+    project_status VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE company.employee_projects (
+    employee_id INT REFERENCES company.employees(employee_id),
+    project_id INT REFERENCES company.projects(project_id),
+    assigned_date DATE NOT NULL,
+    role VARCHAR(100),
+    hours_allocated INT,
+    PRIMARY KEY (employee_id, project_id)
+);

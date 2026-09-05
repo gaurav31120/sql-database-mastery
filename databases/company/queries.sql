@@ -21,3 +21,17 @@ SELECT *
 FROM company.employees
 ORDER BY employee_id
 LIMIT 10;
+
+-- ============================================
+-- EMPLOYEE-PROJECT VERIFICATION
+-- ============================================
+
+-- Total employee-project assignments
+SELECT COUNT(*) AS total_assignments
+FROM company.employee_projects;
+
+-- Preview employee-project assignments
+SELECT *
+FROM company.employee_projects
+ORDER BY employee_id, project_id
+LIMIT 10;
