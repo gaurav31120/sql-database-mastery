@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 05/ 220**
+**Completed: 06/ 220**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
-| 01 | SQL Fundamentals | 01–20 | 🟢 5/20 |
+| 01 | SQL Fundamentals | 01–20 | 🟢 6/20 |
 | 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
@@ -23,7 +23,6 @@
 | 08 | Database Design | 166–180 | ⬜ 0/15 |
 | 09 | Performance + Transactions | 181–195 | ⬜ 0/15 |
 | 10 | Spring Boot + JPA | 196–220 | ⬜ 0/25 |
-| | **TOTAL** | **01–220** | **🟢 3/220** |
 
 ### Legend
 
@@ -42,7 +41,7 @@
 - [x] **03. Display unique department IDs** — ✅ DONE
 - [x] **04. Find employees whose salary is greater than 50,000** — ✅ DONE
 - [x] **05. Find employees whose salary is less than 50,000** — ✅ DONE
-- [ ] **06. Find employees earning exactly 60,000**
+- [x] **06. Find employees earning exactly 60,000** — ✅ DONE
 - [ ] **07. Find employees whose salary is between 40,000 and 70,000**
 - [ ] **08. Find employees belonging to the IT department**
 - [ ] **09. Find employees belonging to IT or HR**
