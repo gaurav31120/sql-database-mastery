@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 06/ 220**
+**Completed: 07/ 220**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
-| 01 | SQL Fundamentals | 01–20 | 🟢 6/20 |
+| 01 | SQL Fundamentals | 01–20 | 🟢 7/20 |
 | 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
@@ -42,7 +42,7 @@
 - [x] **04. Find employees whose salary is greater than 50,000** — ✅ DONE
 - [x] **05. Find employees whose salary is less than 50,000** — ✅ DONE
 - [x] **06. Find employees earning exactly 60,000** — ✅ DONE
-- [ ] **07. Find employees whose salary is between 40,000 and 70,000**
+- [x] **07. Find employees whose salary is between 40,000 and 70,000** — ✅ DONE
 - [ ] **08. Find employees belonging to the IT department**
 - [ ] **09. Find employees belonging to IT or HR**
 - [ ] **10. Find employees whose name starts with A**
@@ -336,12 +336,3 @@
 - [ ] **220. Optimize a slow database query**
 
 ---
-
-# 🎯 CURRENT PROGRESS
-
-```text
-P001 ✅
-P002 ✅
-P003 ✅
-
-P004 🔥 NEXT
