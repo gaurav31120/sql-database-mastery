@@ -108,3 +108,27 @@ FROM (
         LIMIT 20000
     ) AS pairs
 ) AS unique_pairs;
+
+UPDATE company.departments
+SET department_name = CASE department_id
+    WHEN 1 THEN 'IT'
+    WHEN 2 THEN 'HR'
+    WHEN 3 THEN 'Finance'
+    WHEN 4 THEN 'Sales'
+    WHEN 5 THEN 'Marketing'
+    WHEN 6 THEN 'Operations'
+    WHEN 7 THEN 'Engineering'
+    WHEN 8 THEN 'Product'
+    WHEN 9 THEN 'Customer Support'
+    WHEN 10 THEN 'Legal'
+    WHEN 11 THEN 'Administration'
+    WHEN 12 THEN 'Procurement'
+    WHEN 13 THEN 'Research'
+    WHEN 14 THEN 'Quality Assurance'
+    WHEN 15 THEN 'Information Security'
+    WHEN 16 THEN 'Data Analytics'
+    WHEN 17 THEN 'Business Development'
+    WHEN 18 THEN 'Supply Chain'
+    WHEN 19 THEN 'Risk Management'
+    WHEN 20 THEN 'Corporate Strategy'
+END;

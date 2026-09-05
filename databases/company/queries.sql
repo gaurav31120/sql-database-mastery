@@ -35,3 +35,7 @@ SELECT *
 FROM company.employee_projects
 ORDER BY employee_id, project_id
 LIMIT 10;
+
+SELECT *
+FROM company.departments
+ORDER BY department_id;
