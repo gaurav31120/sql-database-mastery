@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 08/ 220**
+**Completed: 09/ 220**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
-| 01 | SQL Fundamentals | 01–20 | 🟢 8/20 |
+| 01 | SQL Fundamentals | 01–20 | 🟢 9/20 |
 | 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
@@ -44,7 +44,7 @@
 - [x] **06. Find employees earning exactly 60,000** — ✅ DONE
 - [x] **07. Find employees whose salary is between 40,000 and 70,000** — ✅ DONE
 - [x] **08. Find employees belonging to the IT department.** — ✅ DONE
-- [ ] **09. Find employees belonging to IT or HR**
+- [x] **09. Find employees belonging to IT or HR.** — ✅ DONE
 - [ ] **10. Find employees whose name starts with A**
 - [ ] **11. Find employees whose name ends with n**
 - [ ] **12. Find employees whose name contains ar**
