@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 04/ 220**
+**Completed: 05/ 220**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
-| 01 | SQL Fundamentals | 01–20 | 🟢 4/20 |
+| 01 | SQL Fundamentals | 01–20 | 🟢 5/20 |
 | 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
@@ -41,7 +41,7 @@
 - [x] **02. Display employee names and salaries** — ✅ DONE
 - [x] **03. Display unique department IDs** — ✅ DONE
 - [x] **04. Find employees whose salary is greater than 50,000** — ✅ DONE
-- [ ] **05. Find employees whose salary is less than 50,000**
+- [x] **05. Find employees whose salary is less than 50,000** — ✅ DONE
 - [ ] **06. Find employees earning exactly 60,000**
 - [ ] **07. Find employees whose salary is between 40,000 and 70,000**
 - [ ] **08. Find employees belonging to the IT department**
