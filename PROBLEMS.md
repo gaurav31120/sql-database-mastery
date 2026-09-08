@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 17/ 220**
+**Completed: 18/ 220**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
-| 01 | SQL Fundamentals | 01–20 | 🟢 17/20 |
+| 01 | SQL Fundamentals | 01–20 | 🟢 18/20 |
 | 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
@@ -53,7 +53,7 @@
 - [x] **15. Find employees whose salary is NOT NULL.** — ✅ DONE
 - [x] **16. Display employees ordered by salary ascending.** — ✅ DONE
 - [x] **17. Display employees ordered by salary descending.** — ✅ DONE
-- [ ] **18. Display the top 5 highest-paid employees**
+- [x] **18. Display top 5 highest-paid employees.** — ✅ DONE
 - [ ] **19. Display the 3 lowest-paid employees**
 - [ ] **20. Display employees sorted by department and then salary**
 
