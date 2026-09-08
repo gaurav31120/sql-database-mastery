@@ -63,7 +63,7 @@
 
 **Problems 21–40**
 
-- [x] P021 — Create employees table — ✅ DONE
+- [x] **22. Create departments table.** — ✅ DONE
 - [ ] **22. Create a departments table**
 - [ ] **23. Add a primary key**
 - [ ] **24. Add a foreign key from employees → departments**
