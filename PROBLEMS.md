@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 28/ 220**
+**Completed: 29/ 220**
 
 ---
 
@@ -13,7 +13,7 @@
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
 | 01 | SQL Fundamentals | 01–20 | 🟢 20/20 |
-| 02 | CRUD + Table Operations | 21–40 | ⬜ 8/20 |
+| 02 | CRUD + Table Operations | 21–40 | ⬜ 9/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
 | 05 | Subqueries | 91–115 | ⬜ 0/25 |
@@ -71,7 +71,7 @@
 - [x] **26. Add UNIQUE on email.** — ✅ DONE
 - [x] **27. Insert 10 employees.** — ✅ DONE
 - [x] **28. Insert 5 departments.** — ✅ DONE
-- [ ] **29. Update an employee's salary**
+- [x] **29. Update employee salary.** — ✅ DONE
 - [ ] **30. Increase every IT employee's salary by 10%**
 - [ ] **31. Change an employee's department**
 - [ ] **32. Delete an employee**
