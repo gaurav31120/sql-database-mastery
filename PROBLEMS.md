@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 20/ 220**
+**Completed: 21/ 220**
 
 ---
 
@@ -13,7 +13,7 @@
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
 | 01 | SQL Fundamentals | 01–20 | 🟢 20/20 |
-| 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
+| 02 | CRUD + Table Operations | 21–40 | ⬜ 1/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
 | 05 | Subqueries | 91–115 | ⬜ 0/25 |
@@ -63,7 +63,7 @@
 
 **Problems 21–40**
 
-- [ ] **21. Create an employees table**
+- [x] P021 — Create employees table — ✅ DONE
 - [ ] **22. Create a departments table**
 - [ ] **23. Add a primary key**
 - [ ] **24. Add a foreign key from employees → departments**
