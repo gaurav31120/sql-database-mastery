@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 13/ 220**
+**Completed: 14/ 220**
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
-| 01 | SQL Fundamentals | 01–20 | 🟢 13/20 |
+| 01 | SQL Fundamentals | 01–20 | 🟢 14/20 |
 | 02 | CRUD + Table Operations | 21–40 | ⬜ 0/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
@@ -49,7 +49,7 @@
 - [x] **11. Find employees whose name ends with n** — ✅ DONE
 - [x] **12. Find employees whose name contains ar.** — ✅ DONE
 - [x] **13. Find employees whose department is not IT.** — ✅ DONE
-- [ ] **14. Find employees whose salary is NULL**
+- [x] **14. Find employees whose salary is NULL.** — ✅ DONE
 - [ ] **15. Find employees whose salary is NOT NULL**
 - [ ] **16. Display employees ordered by salary ascending**
 - [ ] **17. Display employees ordered by salary descending**
