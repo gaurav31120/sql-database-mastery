@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 26/ 220**
+**Completed: 27/ 220**
 
 ---
 
@@ -13,7 +13,7 @@
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
 | 01 | SQL Fundamentals | 01–20 | 🟢 20/20 |
-| 02 | CRUD + Table Operations | 21–40 | ⬜ 6/20 |
+| 02 | CRUD + Table Operations | 21–40 | ⬜ 7/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
 | 05 | Subqueries | 91–115 | ⬜ 0/25 |
@@ -69,7 +69,7 @@
 - [x] **24. Add foreign key employees → departments.** — ✅ DONE
 - [x] **25. Add NOT NULL.** — ✅ DONE
 - [x] **26. Add UNIQUE on email.** — ✅ DONE
-- [ ] **27. Insert 10 employees**
+- [x] **27. Insert 10 employees.** — ✅ DONE
 - [ ] **28. Insert 5 departments**
 - [ ] **29. Update an employee's salary**
 - [ ] **30. Increase every IT employee's salary by 10%**
