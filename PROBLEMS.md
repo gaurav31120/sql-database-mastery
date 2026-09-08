@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Completed: 24/ 220**
+**Completed: 25/ 220**
 
 ---
 
@@ -13,7 +13,7 @@
 | Level | Topic | Problems | Progress |
 |---|---|---:|---:|
 | 01 | SQL Fundamentals | 01–20 | 🟢 20/20 |
-| 02 | CRUD + Table Operations | 21–40 | ⬜ 4/20 |
+| 02 | CRUD + Table Operations | 21–40 | ⬜ 5/20 |
 | 03 | Aggregation | 41–60 | ⬜ 0/20 |
 | 04 | JOINs | 61–90 | ⬜ 0/30 |
 | 05 | Subqueries | 91–115 | ⬜ 0/25 |
@@ -67,7 +67,7 @@
 - [x] **22. Create a departments table** — ✅ DONE
 - [x] **23. Add primary key.** — ✅ DONE
 - [x] **24. Add foreign key employees → departments.** — ✅ DONE
-- [ ] **25. Add a NOT NULL constraint**
+- [x] **25. Add NOT NULL.** — ✅ DONE
 - [ ] **26. Add a UNIQUE constraint on email**
 - [ ] **27. Insert 10 employees**
 - [ ] **28. Insert 5 departments**
