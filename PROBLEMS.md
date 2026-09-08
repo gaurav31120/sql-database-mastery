@@ -72,7 +72,7 @@
 - [x] **27. Insert 10 employees.** — ✅ DONE
 - [x] **28. Insert 5 departments.** — ✅ DONE
 - [x] **29. Update employee salary.** — ✅ DONE
-- [ ] **30. Increase every IT employee's salary by 10%**
+- [x] **30. Increase every IT employee salary by 10%.** — ✅ DONE
 - [ ] **31. Change an employee's department**
 - [ ] **32. Delete an employee**
 - [ ] **33. Delete employees belonging to a particular department**
